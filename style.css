@@ -172,13 +172,6 @@ section h4{
 
   
 }
-.osm{
-    color: rgb(185, 206, 114);
-    text-align: right;
-    font-size:3em;
-    letter-spacing: 0.1em;
-    text-shadow: 3px 5px 10px;
-}
 .notes{
     border-style: solid;
     width: 50%;
@@ -214,3 +207,12 @@ section h4{
     height: 80%;
     margin-left: 10%;
   }
+  .header-container{
+  font-size:3vw;
+  }
+  .head{
+  letter-spacing:0.2em;
+  text-shadow:3px 5px 10px;
+  color:yellow
+  }
+  
