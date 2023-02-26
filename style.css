@@ -20,7 +20,10 @@ body{
     flex-direction: row;
     width: 100%;
    min-height:50px;
-   background-image: url(image.jpg) no-repeat 50% 50% fixed;
+   background-image: url(image.jpg)  ;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
      align-items: center;
      padding-left:2%;
