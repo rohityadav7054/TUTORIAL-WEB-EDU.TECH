@@ -20,10 +20,10 @@ body{
     flex-direction: row;
     width: 100%;
    min-height:50px;
-   background-image: url(image.jpg);
+   background-image: url(image.jpg) no-repeat 50% 50% fixed;
+  background-size: cover;
      align-items: center;
      padding-left:2%;
-      background-repeat: no-repeat;
     position: relative;
 }
 
