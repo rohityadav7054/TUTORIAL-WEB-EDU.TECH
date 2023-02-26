@@ -24,6 +24,7 @@ body{
      align-items: center;
      padding-left:2%;
       background-repeat: no-repeat;
+    background-repeat: space;
 }
 
 #nav-div{
