@@ -23,6 +23,7 @@ body{
    background-image: url(image.jpg);
      align-items: center;
      padding-left:2%;
+      background-repeat: no-repeat;
 }
 
 #nav-div{
